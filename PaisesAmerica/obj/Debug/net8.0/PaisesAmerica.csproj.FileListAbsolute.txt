@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\PaisesAmerica\PaisesAmerica\bin\Debug\net8.0\PaisesAmerica.exe
+C:\Users\Pedro\source\repos\PaisesAmerica\PaisesAmerica\bin\Debug\net8.0\PaisesAmerica.deps.json
+C:\Users\Pedro\source\repos\PaisesAmerica\PaisesAmerica\bin\Debug\net8.0\PaisesAmerica.runtimeconfig.json
+C:\Users\Pedro\source\repos\PaisesAmerica\PaisesAmerica\bin\Debug\net8.0\PaisesAmerica.dll
+C:\Users\Pedro\source\repos\PaisesAmerica\PaisesAmerica\bin\Debug\net8.0\PaisesAmerica.pdb
+C:\Users\Pedro\source\repos\PaisesAmerica\PaisesAmerica\obj\Debug\net8.0\PaisesAmerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\PaisesAmerica\PaisesAmerica\obj\Debug\net8.0\PaisesAmerica.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\PaisesAmerica\PaisesAmerica\obj\Debug\net8.0\PaisesAmerica.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\PaisesAmerica\PaisesAmerica\obj\Debug\net8.0\PaisesAmerica.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\PaisesAmerica\PaisesAmerica\obj\Debug\net8.0\PaisesAmerica.dll
+C:\Users\Pedro\source\repos\PaisesAmerica\PaisesAmerica\obj\Debug\net8.0\refint\PaisesAmerica.dll
+C:\Users\Pedro\source\repos\PaisesAmerica\PaisesAmerica\obj\Debug\net8.0\PaisesAmerica.pdb
+C:\Users\Pedro\source\repos\PaisesAmerica\PaisesAmerica\obj\Debug\net8.0\PaisesAmerica.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\PaisesAmerica\PaisesAmerica\obj\Debug\net8.0\ref\PaisesAmerica.dll
